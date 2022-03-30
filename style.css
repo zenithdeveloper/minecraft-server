@@ -1,0 +1,78 @@
+/* Home */
+
+@import url("https://fonts.googleapis.com/css2?family=Source Sans 3:wght@900&display=swap");
+
+p {
+  margin: 0;
+}
+
+.clip-contents {
+  overflow: hidden;
+}
+
+.flex-col-hstart-vstart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-col-hcenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flex-hcenter {
+  justify-content: center;
+}
+
+.home {
+  position: relative;
+  background-color: rgba(241, 250, 238, 1);
+  width: 1920px;
+  height: 1081px;
+}
+
+.rectangle-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: rgba(29, 53, 87, 1);
+  box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.15);
+  height: 60px;
+  width: 100%;
+}
+
+.group-341 {
+  position: absolute;
+  top: 50px;
+  none: 0px;
+  height: 1031px;
+  width: 100%;
+}
+
+.banner {
+  height: 310px;
+  margin-bottom: 37px;
+  width: 100%;
+}
+
+.txt-359 {
+  font-size: 75px;
+  font-family: Source Sans 3, sans-serif;
+  font-weight: 900;
+  letter-spacing: -3.75px;
+  color: rgba(50, 50, 50, 1);
+  text-align: center;
+  width: 646px;
+  height: 241px;
+  word-wrap: break-word;
+  margin-bottom: 382px;
+}
+
+.rectangle-3 {
+  background-color: rgba(168, 218, 220, 1);
+  height: 61px;
+  width: 100%;
+}
